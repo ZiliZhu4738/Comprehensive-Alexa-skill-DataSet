@@ -1,2 +1,2 @@
-# Comprehensive-Alexa-skill-DataSet
+# Latest and large-scale Comprehensive Alexa skill DataSet
 latest Alexa skill dataset
